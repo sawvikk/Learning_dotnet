@@ -1,0 +1,6 @@
+@Dotnet_Anisul_HostAddress = http://localhost:5293
+
+GET {{Dotnet_Anisul_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
